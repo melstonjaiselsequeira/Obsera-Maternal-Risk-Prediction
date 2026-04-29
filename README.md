@@ -3,3 +3,6 @@
 3. Open terminal and run
 4. python train_model1.py
 5. streamlit run app.py
+
+
+### code is done using python and streamlit
